@@ -12,7 +12,7 @@ def open_whatsapp():
 my_files=glob.glob("images/*jpeg")
 
 
-st.image("LOGO.png")
+st.image("Logo/LOGO.png")
 info_text="""
 Welcome to The North Culture, where history, beauty, and you converge in a harmonious celebration.
  Explore our curated collection and adorn yourself with jewelry that echoes tales of heritage. 
