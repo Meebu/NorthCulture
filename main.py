@@ -6,7 +6,7 @@ import random
 
 
 def open_whatsapp():
-    whatsapp_url = "https://api.whatsapp.com/send?phone=+92 334 1441122&text=I'm interested in buying your product!"
+    whatsapp_url = "https://api.whatsapp.com/send?phone=+923185986135&text=I'm interested in buying your product!"
     webbrowser.open(whatsapp_url)
 
 my_files=glob.glob("images/*jpeg")
